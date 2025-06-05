@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_ORG/gitops-repo
+    repoURL: https://github.com/lutfailham96/dev-argocd-gitops
     targetRevision: main
     path: clusters/development-cluster
   destination:
